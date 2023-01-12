@@ -322,10 +322,10 @@ h3 {
 }
 .contact_form {}
 .foot {
-    height: 273px;
     background: #3c3c3c;
 }
 .copyright-text {
+    padding: 50px 0;
     text-align: center;
     color: #fff;
 }
